@@ -27,10 +27,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em evoluir minhas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-victor-106208266)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomasten22)
 
----
-
-📊 **Status do GitHub**
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thomasten22&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasten22&layout=compact&theme=dark)
