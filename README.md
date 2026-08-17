@@ -32,4 +32,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** focado em evoluir minhas
 📊 **Status do GitHub**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thomasten22&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasten22&layout=compact&theme=dark)
